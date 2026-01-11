@@ -1,0 +1,14 @@
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\CurrencyTracker.exe
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\CurrencyTracker.deps.json
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\CurrencyTracker.runtimeconfig.json
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\CurrencyTracker.dll
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\CurrencyTracker.pdb
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.AssemblyInfoInputs.cache
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.AssemblyInfo.cs
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.csproj.CoreCompileInputs.cache
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.dll
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\refint\CurrencyTracker.dll
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.pdb
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.genruntimeconfig.cache
+C:\Users\Akers\OneDrive\Masaüstü\NESNEYE DAYALI PROGRAMLAMA\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\ref\CurrencyTracker.dll
